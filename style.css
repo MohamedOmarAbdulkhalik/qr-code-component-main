@@ -1,0 +1,35 @@
+body {
+    background-color:   hsl(212, 45%, 89%);
+}
+
+.f {
+    font-size: 11px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    top: 15%;
+    height: 370px;
+    width: 200px;
+    border: solidhsl(0, 0%, 100%);
+    border-radius: 4%;
+    padding: 9px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+    border-radius: 4%;
+}
+h2{
+    color: hsl(218, 44%, 22%);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+}
+p{
+    color: hsl(220, 15%, 55%);
+    font-size: 12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0;
+}
